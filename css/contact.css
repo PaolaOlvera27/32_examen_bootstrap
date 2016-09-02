@@ -11,3 +11,10 @@ iframe {
 	padding:13% 5%;
 	box-sizing: border-box;
 }
+form, input, button {
+	box-sizing: border-box;
+	padding: 10%;
+}
+.margin-top {
+	margin-top: 10%;
+}
