@@ -1,0 +1,15 @@
+.bg-gray {
+	background-color: #4D4E57;
+}
+.bg-pink {
+	background-color: #F95B66;
+}
+.text-white {
+	color: white;
+}
+.text-pink, span {
+	color: #F95B66;
+}
+.pad-row {
+	padding: 1.5% 0%;
+}

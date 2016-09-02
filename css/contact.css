@@ -1,0 +1,13 @@
+h1{
+	padding: 5%;
+	background: #F95B66;
+}
+.bg-img-cont {
+	background-image: url("../img/slider2.jpg");	
+	height: 350px;
+	padding: 5%;
+}
+iframe {
+	padding:13% 5%;
+	box-sizing: border-box;
+}
